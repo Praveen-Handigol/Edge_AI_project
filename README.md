@@ -12,5 +12,9 @@ build the working space using "colcon build" and run "source install/setup.bash"
 to run the robot with the selected model, "ros2 launch stackbot_core model_run.launch.py"
 
 
+
+
+
 link for ROS2 doccumentation: https://docs.ros.org/en/humble/index.html
+
 link for making a workspace in ROS2: https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Creating-A-Workspace/Creating-A-Workspace.html
